@@ -1,5 +1,5 @@
 ﻿# MIT license
-# This dataset was originally developed by Cha et al. (2017) for CNN-based concrete crack classification. Siddique and Cha (2026) subsequently expanded the dataset by adding more challenging images for HQCNN-based crack classification. Therefore, users of this dataset should cite both of the following references:
+# This dataset was originally developed by Cha et al. (2017) for CNN-based concrete crack classification. Siddique and Cha (2026) subsequently expanded the dataset by adding more challenging images for HQCNN-based crack classification. The details of the splitting datasets are available in Siddique and Cha (2026). Users of this dataset should cite both of the following references:
 
  Citations:
  1. Cha, Y. J., Choi, W., & Büyüköztürk, O. (2017). Deep learning‐based crack damage detection using convolutional neural networks. Computer‐Aided Civil and Infrastructure Engineering, 32(5), 361-378.
