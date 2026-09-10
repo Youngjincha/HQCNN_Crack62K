@@ -3,5 +3,5 @@
 
  Citations:
  1. Cha, Y. J., Choi, W., & Büyüköztürk, O. (2017). Deep learning‐based crack damage detection using convolutional neural networks. Computer‐Aided Civil and Infrastructure Engineering, 32(5), 361-378. https://doi.org/10.1111/mice.12263Digital.
- 2. Siddique, A.B.*, & Cha, Y.J.† (2026). Quantum deep convolutional neural networks for damage classification, Computer-Aided Civil and Infrastructure Engineering, Elsevier, doi: https://doi.org/10.1016/j.cacaie.2026.100217.
+ 2. Siddique, A.B.*, & Cha, Y.J.† (2026). Quantum deep convolutional neural networks for damage classification, Computer-Aided Civil and Infrastructure Engineering, Elsevier, https://doi.org/10.1016/j.cacaie.2026.100217.
  
